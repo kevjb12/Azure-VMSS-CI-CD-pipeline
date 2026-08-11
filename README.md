@@ -1,9 +1,23 @@
 # Azure-VMSS-CI-CD-pipeline
+<br>
+<br>
+
+## Overview
 This project demonstrates how Infrastructure as Code (IaC) and CI/CD can be used to automate the deployment of scalable Azure infrastructure. The solution addresses common operational challenges such as manual provisioning, deployment inconsistencies, and scaling limitations by using Terraform and Azure DevOps to deploy a Virtual Machine Scale Set, Load Balancer, NAT Gateway, and supporting network infrastructure. Autoscaling policies allow the environment to automatically adjust compute capacity based on demand while the CI/CD pipeline provides repeatable and reliable deployments.
 <br>
 <br>
 <br>
 <br>
+
+## Architecture
+<img width="3215" height="2268" alt="Diagram" src="https://github.com/user-attachments/assets/0665aa6f-3e46-4b82-99a4-96cb6febf58e" />
+
+
+<br>
+<br>
+<br>
+<br>
+
 ## Business Problem
 Many organizations struggle with:
 
